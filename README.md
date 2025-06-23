@@ -1,5 +1,57 @@
-# SAST Benchmark Suite 🔍
+# SAST-BENCHMARK-SUITE
 
+*Benchmark Security, Elevate Confidence, Accelerate Innovation*
+
+![last commit](https://img.shields.io/badge/last_commit-june-blue)
+![python](https://img.shields.io/badge/python-60.8%-blue)
+![languages](https://img.shields.io/badge/languages-3-green)
+
+## Built with the tools and technologies:
+
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![JSON](https://img.shields.io/badge/JSON-black?logo=json)
+![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown)
+![npm](https://img.shields.io/badge/npm-red?logo=npm)
+![Autoprefixer](https://img.shields.io/badge/Autoprefixer-orange?logo=autoprefixer)
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=sqlalchemy)
+![PostCSS](https://img.shields.io/badge/PostCSS-orange?logo=postcss)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn)
+![Prettier](https://img.shields.io/badge/Prettier-yellow?logo=prettier)
+![.ENV](https://img.shields.io/badge/.ENV-black?logo=dotenv)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Scrapy](https://img.shields.io/badge/Scrapy-green?logo=scrapy)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-green?logo=gnu-bash)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-green?logo=gunicorn)
+![Celery](https://img.shields.io/badge/Celery-green?logo=celery)
+![Passport](https://img.shields.io/badge/Passport-green?logo=passport)
+![Django](https://img.shields.io/badge/Django-green?logo=django)
+
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Pytest](https://img.shields.io/badge/Pytest-blue?logo=pytest)
+![Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?logo=github-actions)
+![Lodash](https://img.shields.io/badge/Lodash-blue?logo=lodash)
+![Formik](https://img.shields.io/badge/Formik-blue?logo=formik)
+![ESLint](https://img.shields.io/badge/ESLint-purple?logo=eslint)
+
+![pandas](https://img.shields.io/badge/pandas-purple?logo=pandas)
+![Axios](https://img.shields.io/badge/Axios-purple?logo=axios)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+![Socket](https://img.shields.io/badge/Socket-purple?logo=socket.io)
+![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-pink?logo=react-hook-form)
+![Pydantic](https://img.shields.io/badge/Pydantic-pink?logo=pydantic)
+![styledcomponents](https://img.shields.io/badge/styled--components-pink?logo=styled-components)
+![Chart.js](https://img.shields.io/badge/Chart.js-pink?logo=chart.js)
+
+## Overview
 A comprehensive vulnerable codebase designed to test and benchmark Static Application Security Testing (SAST) tools. This repository contains intentionally vulnerable code in Python and JavaScript to evaluate how well security scanners detect real-world vulnerabilities, handle dead code analysis, and minimize false positives.
 
 ## 📊 Repository Statistics
