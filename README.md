@@ -3,7 +3,7 @@
 *Benchmark Security, Elevate Confidence, Accelerate Innovation*
 
 ![last commit](https://img.shields.io/badge/last_commit-june-blue)
-![python](https://img.shields.io/badge/python-60.8%-blue)
+![python](https://img.shields.io/badge/python-60.8%25-blue)
 ![languages](https://img.shields.io/badge/languages-3-green)
 
 ## Built with the tools and technologies:
